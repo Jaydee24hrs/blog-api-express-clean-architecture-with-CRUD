@@ -16,7 +16,7 @@ Jest + Supertest for testing
 
 ## Setup & Run
 ```bash
-git clone https://github.com/your-username/blog-api-express-clean-architecture.git
+git clone https://github.com/Jaydee24hrs/blog-api-express-clean-architecture-with-CRUD.git
 cd blog-api-express-clean-architecture
 npm install
 npm start                 # Server runs on http://localhost:3000
